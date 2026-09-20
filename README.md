@@ -14,6 +14,7 @@ Learning and implementing what i learn
 | [0035-search-insert-position](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0643-maximum-average-subarray-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,4 +65,8 @@ Learning and implementing what i learn
 |  |
 | ------- |
 | [0015-3sum](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0015-3sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
