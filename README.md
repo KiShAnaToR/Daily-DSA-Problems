@@ -15,6 +15,7 @@ Learning and implementing what i learn
 | [0066-plus-one](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [3524-find-x-value-of-array-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,6 +29,7 @@ Learning and implementing what i learn
 | [0009-palindrome-number](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0066-plus-one) |
+| [3524-find-x-value-of-array-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
 | ------- |
@@ -75,4 +77,8 @@ Learning and implementing what i learn
 | [0003-longest-substring-without-repeating-characters](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3524-find-x-value-of-array-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 <!---LeetCode Topics End-->
