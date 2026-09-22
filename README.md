@@ -20,6 +20,7 @@ Learning and implementing what i learn
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [3524-find-x-value-of-array-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ Learning and implementing what i learn
 | [0013-roman-to-integer](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0066-plus-one) |
 | [3524-find-x-value-of-array-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3525-find-x-value-of-array-ii) |
 ## String
 |  |
 | ------- |
@@ -107,4 +109,8 @@ Learning and implementing what i learn
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
