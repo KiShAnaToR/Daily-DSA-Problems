@@ -44,6 +44,7 @@ Learning and implementing what i learn
 | [0014-longest-common-prefix](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0076-minimum-window-substring) |
 ## Trie
 |  |
