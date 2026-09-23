@@ -19,6 +19,7 @@ Learning and implementing what i learn
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
@@ -28,6 +29,7 @@ Learning and implementing what i learn
 | [0003-longest-substring-without-repeating-characters](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0076-minimum-window-substring) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Learning and implementing what i learn
 | ------- |
 | [0035-search-insert-position](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Greedy
 |  |
 | ------- |
@@ -96,6 +99,7 @@ Learning and implementing what i learn
 | [0003-longest-substring-without-repeating-characters](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0643-maximum-average-subarray-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -144,4 +148,8 @@ Learning and implementing what i learn
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0067-add-binary) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
