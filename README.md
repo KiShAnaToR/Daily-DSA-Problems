@@ -20,6 +20,7 @@ Learning and implementing what i learn
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0643-maximum-average-subarray-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -31,6 +32,7 @@ Learning and implementing what i learn
 | [0013-roman-to-integer](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Learning and implementing what i learn
 | [0067-add-binary](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0125-valid-palindrome) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Trie
 |  |
 | ------- |
