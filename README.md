@@ -41,6 +41,7 @@ Learning and implementing what i learn
 | [0066-plus-one](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0171-excel-sheet-column-number) |
 | [3524-find-x-value-of-array-i](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -57,6 +58,7 @@ Learning and implementing what i learn
 | [0076-minimum-window-substring](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0171-excel-sheet-column-number) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Trie
