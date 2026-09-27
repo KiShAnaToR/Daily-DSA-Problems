@@ -55,6 +55,7 @@ Learning and implementing what i learn
 | [0067-add-binary](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0125-valid-palindrome) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Trie
 |  |
@@ -64,10 +65,12 @@ Learning and implementing what i learn
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
