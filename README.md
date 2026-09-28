@@ -60,6 +60,7 @@ Learning and implementing what i learn
 | [0168-excel-sheet-column-title](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0171-excel-sheet-column-number) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Trie
 |  |
@@ -70,11 +71,13 @@ Learning and implementing what i learn
 | ------- |
 | [0020-valid-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/0020-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/KiShAnaToR/Daily-DSA-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
