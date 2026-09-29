@@ -14,31 +14,33 @@ class Solution:
         
         if grid[0][0] != '(' or grid[m - 1][n - 1] != ')':
             return False
-            
-        visited = set()
-        queue = [(0, 0, 1)]
-        visited.add((0, 0, 1))
-        
-        while queue:
-            r, c, bal = queue.pop(0)
-            
-            if r == m - 1 and c == n - 1:
-                if bal == 0:
-                    return True
-                continue
-            
-            remaining_steps = (m - 1 - r) + (n - 1 - c)
-            if bal > remaining_steps:
-                continue
+
+        dp = [0] * n
+        dp[0] = 1
+
+        for r in range(m):
+            new_dp = [0] * n
+            for c in range(n):
+                if r == 0 and c == 0:
+                    mask = dp[0]
+                else:
+                    mask = 0
+                    if r > 0:
+                        mask |= dp[c]
+                    if c > 0:
+                        mask |= new_dp[c - 1]
                 
-            for dr, dc in [(1, 0), (0, 1)]:
-                nr, nc = r + dr, c + dc
-                if nr < m and nc < n:
-                    delta = 1 if grid[nr][nc] == '(' else -1
-                    next_bal = bal + delta
-                    
-                    if next_bal >= 0 and (nr, nc, next_bal) not in visited:
-                        visited.add((nr, nc, next_bal))
-                        queue.append((nr, nc, next_bal))
-                        
-        return False
+                if mask == 0:
+                    continue
+
+                if grid[r][c] == '(':
+                    mask <<= 1
+                else:
+                    mask >>= 1
+
+                rem = (m - 1 - r) + (n - 1 - c)
+                mask &= (1 << (rem + 1)) - 1
+                new_dp[c] = mask
+            dp = new_dp
+
+        return bool(dp[-1] & 1)
